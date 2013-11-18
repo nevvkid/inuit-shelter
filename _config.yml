@@ -8,7 +8,7 @@ description: 'A Jekyll theme'
 #    Jekyll & Plugins     #
 # ----------------------- #
 baseurl: /inuit-shelter
-permalink: none
+permalink: /:year/:month/:day/:title/
 future:      true
 pygments:    true
 markdown:    kramdown
